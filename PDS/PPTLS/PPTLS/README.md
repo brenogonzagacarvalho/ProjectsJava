@@ -1,0 +1,1 @@
+Projeto de Um Jogo inventado na Serie de tv americana The Big Bang Theory. É uma imitação do jogo PEDRA,PAPEL, TESOURA .Nesse jogo é adicionado mais dois elementos ao jogo normal O Spock e lagarto.
